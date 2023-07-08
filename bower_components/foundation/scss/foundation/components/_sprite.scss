@@ -1,0 +1,46 @@
+.sprite {
+  display: inline-block;
+  background: url('../images/sprite.png') no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left;
+}
+
+.logo {
+  background-position: -5px -69px;
+  width: 155px;
+  height: 64px;
+  &:hover {
+    background-position: -5px -0px;
+  }
+}
+
+.css-validation {
+  background-position: -5px -138px;
+  width: 88px;
+  height: 31px;
+}
+
+.html5-validation {
+  background-position: -98px -138px;
+  width: 32px;
+  height: 32px;
+}
+
+.css-validation, .html5-validation {
+  &:hover {
+    opacity: .5;
+  }
+}
+
+.filter-selected {
+  background-position: -135px -152px;
+  width: 9px;
+  height: 9px;
+}
+
+.active {
+  & .filter-selected {
+    background-position: -135px -138px;
+  }
+}

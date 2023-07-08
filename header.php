@@ -52,11 +52,12 @@
 
                     <li class="has-dropdown"><a href="javascript:void(0);">about Mukesh</a>
                         <ul class="dropdown">
-                            <li><a href="#about">about me</a></li>
-                            <li><a href="#curriculum-vitae">curriculum vitae</a></li>
+                            <li><a href="index.php#about">about me</a></li>
+                            <li><a href="index.php#curriculum-vitae">curriculum vitae</a></li>
+                            <li><a href="professional-achievements.php">professional achievements</a></li>
                         </ul>
                     </li>
-                    <li><a href="#portfolio">portfolio</a></li>
+                    <li><a href="index.php#portfolio">portfolio</a></li>
                     <li><a href="mkr-resume.doc" target="_blank">my resume</a></li>
                     <li class="has-dropdown">
                         <a href="javascript:void(0);"><a href="css-projects">Tech</a>

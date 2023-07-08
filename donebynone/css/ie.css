@@ -1,0 +1,487 @@
+/*Responsive Feature Removed for IE Below to IE-9, UI Development by Mukesh kumar roy for donebynone.com, e-Mail: mukesh84tech@gmail.com, Mob:- 9873047383*/
+body {
+    padding: 0 !important;
+    border: 0 !important;
+    margin: 0 auto!important;
+    overflow-x: scroll;
+}
+
+img {
+    width: auto\9;
+    -ms-interpolation-mode: bicubic
+}
+
+.row {
+    width: 1000px
+}
+
+.column, .columns {
+    float: left;
+    padding-left: 1.820%;
+    padding-right: 1.820%;
+    padding-bottom: 1.820%;
+    position: relative;
+    width: 100%
+}
+
+.dbn-logo {
+    width: 300px;
+    margin-left: 350px;
+    background-color: #fff
+}
+
+.large-1, .small-1 {
+    position: relative;
+    width: 5.2%
+}
+
+.large-2, .small-2 {
+    position: relative;
+    width: 10.4%
+}
+
+.large-3, .small-3 {
+    position: relative;
+    width: 21.9%
+}
+
+.large-4, .small-4 {
+    position: relative;
+    width: 30.2%
+}
+
+.large-5, .small-5 {
+    position: relative;
+    width: 40.1%
+}
+
+.large-6, .small-6 {
+    position: relative;
+    width: 46.9%
+}
+
+.large-7, .small-7 {
+    position: relative;
+    width: 53.6%
+}
+
+.large-8, .small-8 {
+    position: relative;
+    width: 63.5%
+}
+
+.large-9, .small-9 {
+    position: relative;
+    width: 71.8%
+}
+
+.large-10, .small-10 {
+    position: relative;
+    width: 83.2%
+}
+
+.large-11, .small-11 {
+    position: relative;
+    width: 88.4%
+}
+
+.large-12, .small-12 {
+    position: relative;
+    width: 96.9%
+}
+
+.small-offset-0 {
+    position: relative;
+    margin-left: 0%
+}
+
+.small-offset-1 {
+    position: relative;
+    margin-left: 8.33333%
+}
+
+.small-offset-2, .complete-order-head-section .large-8 {
+    position: relative;
+    margin-left: 16.6667%
+}
+
+.small-offset-3, .popup-dotted-header {
+    position: relative;
+    margin-left: 25%
+}
+
+.small-offset-4 {
+    position: relative;
+    margin-left: 33.3333%
+}
+
+.small-offset-5 {
+    position: relative;
+    margin-left: 41.6667%
+}
+
+.small-offset-6 {
+    position: relative;
+    margin-left: 50%
+}
+
+.small-offset-7 {
+    position: relative;
+    margin-left: 58.3333%
+}
+
+.small-offset-8 {
+    position: relative;
+    margin-left: 66.6667%
+}
+
+.small-offset-9 {
+    position: relative;
+    margin-left: 75%
+}
+
+.small-offset-10 {
+    position: relative;
+    margin-left: 83.3333%
+}
+
+.story-section {
+    width: 233.967px
+}
+
+.story-panel {
+    margin-bottom: -15px;
+    margin-bottom: 27 px\0;
+}
+
+.home-orbit {
+    /*width: 700px;
+    padding-right: 0*/
+}
+
+.product-category .large-4 {
+    float: left;
+    width: 31.2%;
+    width: 31.6% \0;
+    padding-left: 1.820%;
+    padding-right: 0
+}
+
+.bot-comments {
+    height: 65px
+}
+
+.TxtPAternBox {
+    height: 122px;
+    height: 155 px\0;
+    only IE8
+}
+
+.quick-services .services-list {
+    margin\0-top: -134px;
+    margin-left: -50px;
+    margin-left: 0 \0
+
+}
+
+.comment-service-icon {
+    t\0op: 116px;
+}
+
+.quick-services .large-3 {
+    width: 23.222%
+}
+
+.right-tab {
+    width: 202px
+}
+
+.top-navigation {
+    margin-top: 15px;
+    width: 877px
+}
+.dsn-on{
+    he\0ight:190px;
+}
+.top-navigation .top-bar-section li {
+    float: left;
+}
+
+.js-generated {
+    display: none;
+}
+
+.top-bar-section .dropdown {
+    left: 0;
+    top: auto;
+}
+
+.top-navigation .top-bar {
+    overflow: visible;
+}
+
+.brd-position-40 .small-centered {
+    margin-left: 24%
+}
+
+.top-sober-bar {
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0
+}
+
+.top-sober-bar .top-bar {
+    width: 600px
+}
+
+.top-sober-bar .right {
+    width: 400px
+}
+
+.hdr-top-links li {
+    fl\0oat: left !important
+}
+
+.desktop-sub-nav {
+    width: 935px;
+    width: 894 px\0
+
+}
+
+.new-top-sort {
+    margin-left: 50px
+}
+
+.new-top-sort nav {
+    height: auto
+}
+
+.quick-services .large-3 {
+    width: 232px
+}
+
+.new-foot-section .large-3, .quick-services .large-3 {
+    width: 225 px\0
+
+}
+
+.sort-by-ie {
+    padding-top: 15px
+}
+
+.sort-by-ie .large-9 {
+    width: 600px
+}
+
+.pair-it-with .large-3 {
+    width: 21%;
+    width: 25% \0
+
+}
+
+.cart-footer {
+    padding-left: 8%
+}
+
+.cart-footer .large-4 {
+    width: 29% !important
+}
+
+a.method-tab {
+    height: 18px;
+    height: 39 px\0  !important
+}
+
+.width-150 {
+    width: 150px
+}
+
+.chek-steps {
+    margin-left: 290px !important
+}
+
+.checkout-logo .small-centered {
+    margin-left: 33.333%
+}
+
+header .dotted-logo-brd {
+    background-position: 0 70%
+}
+
+.chek-steps .dotted-logo-brd {
+    border: solid 1px #fff;
+    background-position: 50% 10px
+}
+
+.chek-ship {
+    margin-left: 115px
+}
+
+.item-desc-width {
+    width: 29.555%;
+    width: 40.555% \0
+
+}
+
+#checkout-left-panel .large-3, #checkout-left-panel .large-2 {
+    width: 25% \0
+
+}
+
+.love2add {
+    margin-left: 30%
+}
+
+.brown-cart-button {
+    width: auto
+}
+
+.cart-footer .large-3 {
+    width: 21.222%;
+    width: 25% \0
+
+}
+
+.checkout-main-button {
+    width: 94.555%;
+    width: 90.555% \0;
+    clear: both
+}
+
+.secondary-login {
+    width: 280px;
+    width: 290 px\0
+
+}
+
+.step-2-section .large-1 {
+    width: 20px !important;
+    width: 70 px\0  !important
+}
+
+.step-2-section .large-4, .step-2-section .large-3 {
+    width: 25%
+}
+
+.checkout-step-2 .large-6, .shp-detail .large-6 {
+    width: 44%;
+    width: 48% \0
+
+}
+
+.step-2-section .large-2 {
+    width: 17%
+}
+
+.edit-radio, .edit-address-details, .address2-3 {
+    float: left
+}
+
+.edit-address-details {
+    width: 80%
+}
+
+.address2-3 {
+    width: 35%
+}
+
+.payment-content {
+    left: 0;
+    top: 0
+}
+
+.join-cult {
+    position: relative;
+    width: 580px  !important;
+    font-size: 0.755em;
+    margin-left: 25%
+}
+
+footer .dotted-logo-brd {
+    height: 60px
+}
+
+.join-cult .alert-box {
+    left: 0
+}
+
+.color-filter-list li {
+    height: auto;
+    width: 15px;
+    border: solid 1px #ccc
+}
+
+.reveal-modal-bg {
+    background: #000;
+    cursor: pointer;
+    filter: alpha(opacity=50);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    -ms-filter: "alpha(opacity=75)"; /* ie 8 */
+    zoom: 1;
+}
+
+.reveal-modal {
+    box-shadow: none !important;
+    left: 50%;
+    margin-left: -37.5%;
+    padding: 0px !important;
+    width: 70%
+}
+
+.reveal-modal .row {
+    background: #fff !important;
+    width: 99.999%
+}
+
+.reveal-modal .large-6 {
+    width: 45.9%;
+    width: 46.9% \0
+
+}
+
+.reveal-modal p {
+    clear: both
+}
+
+.reveal-modal .column, .reveal-modal .columns {
+    min-width: 0
+}
+
+.close-reveal-modal {
+    right: .5em !important;
+    top: .1em !important
+}
+
+.or {
+    left: 48%;
+    left: 45.5% \0
+
+}
+
+.thumbnail-list {
+    width: 100px;
+    padding: 0
+}
+
+.big-pics {
+    width: 584px;
+    float: right
+}
+
+.large-10 .large-10 .large-12 {
+    width: 98%;
+    width: 102% \0
+
+}
+
+.product-right-panel {
+    margin-right: -3%;
+    width: 30% \0  !important
+}
+
+.red-bg-height-50 {
+    left: 0
+}
+.menu-arrow{
+    display:none;
+}

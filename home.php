@@ -34,10 +34,11 @@
                 </ul>
             </div>
             <ul class="hide">
-                <li><img src="images/UI-Tech-Lead.png" alt="UI Tech Lead Mukesh Kumar Roy"></li>
-                <li><img src="images/User-Interface-Design.png" alt="UI Developer Mukesh Kumar Roy"></li>
-                <li><img src="images/web-designer.png" alt="Web Designer Mukesh Kumar Roy"></li>
-                <li><img src="images/Responsive-Design.png" alt="Fully Responsive Design can make by Mukesh kumar roy"></li>
+                <li><img src="images/UI-Tech-Lead.png" alt="UI Tech Lead Mukesh Kumar Roy - UI Tech Lead, Delhi"></li>
+                <li><img src="images/User-Interface-Design.png" alt="UI Developer Mukesh Kumar Roy - UI Developer, Delhi"></li>
+                <li><img src="images/web-designer.png" alt="Web Designer Mukesh Kumar Roy - Web Designer, Delhi"></li>
+                <li><img src="images/Responsive-Design.png" alt="Fully Responsive Design by Mukesh Kumar Roy - UI Tech Lead, Delhi"></li>
+                <li><img src="images/Award-Acceptance-Ceremony.png" alt="Mukesh Kumar Roy receiving award with pride - UI Tech Lead, Delhi"></li>
             </ul>
             <div class="large-8 column description">
                 <h2>Welcome to my website!</h2>

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mukesh Kumar Roy",
+    "age": 40,
+    "occupation": "UI Tech Lead"
+  },
+  {
+    "name": "Babita Kumari",
+    "age": 40,
+    "occupation": "Web Designer"
+  },
+  {
+    "name": "Muskan Kumari",
+    "age": 15,
+    "occupation": "Project Manager"
+  },
+  {
+    "name": "Dipanshu Kumar roy",
+    "age": 13,
+    "occupation": "UI Developer"
+  }
+]

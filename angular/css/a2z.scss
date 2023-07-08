@@ -1,0 +1,115 @@
+@import "../../bower_components/foundation/scss/foundation/components/global";
+
+/*karvol Plus*/
+.pseudo-section {
+  position: relative;
+  border-left: solid 15px $success-color;
+  padding: 1em 1em 1em 3em;
+
+  &:before, &:after {
+    color: $success-color;
+    position: absolute;
+    font-size: 100px;
+    font-family: Georgia;
+  }
+
+  &:before {
+    top: -.2em;
+    left: 0;
+  }
+  &:after, &:before {
+    content: '"';
+    bottom: -.6em;
+    right: 0;
+
+  }
+
+  & p {
+
+    &::selection, &::-moz-selection {
+      background-color: $success-color !important;
+      color: white !important;
+    }
+
+    &:first-line {
+      color: $success-color;
+    }
+    &:first-letter {
+      color: $success-color;
+      float: left;
+      font-size: 100px;
+      font-weight: bold;
+      margin-right: 0.1em;
+    }
+
+  }
+  & h5 {
+    counter-increment: heading;
+    &::before {
+      content: counter(heading) ". ";
+    }
+  }
+  & ul {
+    counter-reset: item;
+    & li {
+      counter-increment: item;
+      &:before {
+        content: counter(heading) ". " counter(item) " ";
+      }
+    }
+  }
+}
+
+.grid-preview {
+
+  & .column {
+    border: solid 1px darken($secondary-color, 5);
+    background: lighten($secondary-color, 3);
+    text-align: center;
+    &:hover {
+      background: darken($secondary-color, 10);
+      cursor: pointer;
+    }
+  }
+}
+
+.html5-form-validation {
+  *:required ~ label:after {
+    content: "*";
+    color: $alert-color;
+  }
+  *:optional ~ label:after {
+    content: "(optional)";
+    color: darken($secondary-color, 20);
+  }
+  & label {
+    width: 40%;
+    max-height: 2.3125rem;
+  }
+  & input {
+    width: 60%;
+    &[type="submit"] {
+      width: auto;
+    }
+    &:not([type="submit"]):valid:focus {
+      box-shadow: 0 0 10px rgba(101, 169, 10, 0.8);
+      outline: 0
+    }
+    &:not([type="submit"]):invalid:focus {
+      border-color: red;
+      box-shadow: 0 0 10px red;
+      outline: 0;
+    }
+    &[ type = "text"]:invalid:focus ~ label:before {
+      content: "Please fill your "
+    }
+    &[ type = "email"]:invalid:focus ~ label:before {
+      content: "Please enter a valid "
+    }
+    &[ type = "tel"]:invalid:focus ~ label:before {
+      content: "Please only use "
+    }
+  }
+
+}
+
