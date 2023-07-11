@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www.mukeshroy.com/index.php</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/professional-achievements.php</loc>
+        <priority>1.0</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-08</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/mkr-resume.doc</loc>
+        <priority>0.5</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <!-- CSS Projects -->
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/index.php</loc>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/boxmodal.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/grid.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/id.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/pseudoclass.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/validation_pseudoclass.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mukeshroy.com/css-projects/unicode-range.php</loc>
+        <priority>0.6</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <!-- mylearningcube -->
+    <url>
+        <loc>http://mukeshroy.com/mylearningcube/index.php</loc>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+    <url>
+        <loc>http://mukeshroy.com/mylearningcube/category.php</loc>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/mylearningcube/products.php</loc>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/mylearningcube/cart.php</loc>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/mylearningcube/checkout.php</loc>
+        <priority>0.6</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-06-30</lastmod>
+    </url>
+
+    <!-- farmerzden -->
+    <url>
+        <loc>http://mukeshroy.com/farmerzden/index.php</loc>
+        <priority>0.2</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+    <!-- jQuery-projects -->
+    <url>
+        <loc>http://mukeshroy.com/jQuery-projects/index.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/jQuery-projects/hide-show.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/jQuery-projects/slideshow.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/jQuery-projects/accordion.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/jQuery-projects/tip-card.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <!-- donebynone -->
+    <url>
+        <loc>http://mukeshroy.com/donebynone/index.php</loc>
+        <priority>0.2</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/donebynone/my-account.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/donebynone/checkout-step-3.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/donebynone/success.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+    <!-- angular -->
+    <url>
+        <loc>http://mukeshroy.com/angular/index.php</loc>
+        <priority>0.2</priority>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/angular/ng-introduction.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://mukeshroy.com/angular/ng-expressions.php</loc>
+        <priority>0.2</priority>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-07-01</lastmod>
+    </url>
+</urlset>
